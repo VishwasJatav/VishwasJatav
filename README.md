@@ -86,7 +86,7 @@
 - 💼 Looking for a 10 LPA+ web dev role  
 - 🧪 Enjoys clean architecture, testing, and DX  
 - 🤝 Open to collabs on MERN, Next.js, AI integrations  
-- ✉️ Reach me: <b>vishwasjatav.dev@gmail.com</b>
+- ✉️ Reach me: <b>vishwasjatav@gmail.com</b>
 </details>
 
 <p align="center">
